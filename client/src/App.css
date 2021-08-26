@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Hina+Mincho&family=Ubuntu:wght@300&display=swap');
+body {
+   font-family: 'Ubuntu', sans-serif;
+}
+.title{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.form {
+    display: grid;
+    grid-template-rows: auto auto auto auto auto;
+    justify-items: center;
+    grid-gap: 10px;
+    background-color: #989898;
+    padding: 10px;
+    
+}
+
+.form input[type="text"]{
+    width:30%;
+    height:40px;
+    padding: 5px;
+}
+.form textarea{
+    width: 30%;
+    height:60px;
+    padding: 5px;
+}
+
+.form input[type="submit"]{
+    width: 30%;
+    height: 40px;
+}
+
+
+
