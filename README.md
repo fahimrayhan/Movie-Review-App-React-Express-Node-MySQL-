@@ -1,3 +1,7 @@
 # Movie-Review-App-React-Express-Node-MySQL-
-This is simple movie review app where user add movie name and reviews using form. Then all reviews displayed to the front-end. User can also update and delete reviews.
-https://github.com/fahimrayhan/Movie-Review-App-React-Express-Node-MySQL-/blob/master/assets/screenshot.png?raw=true
+This is simple CRUD App using React-Node-ExpressJS and MySQL
+In this CRUD App a user can add movie reviews as well update or delete.
+User will input the movie name and review and then all the reviews will be shown to the front-end
+
+#this app is not responsive yet
+<img src="https://github.com/fahimrayhan/Movie-Review-App-React-Express-Node-MySQL-/blob/master/assets/screenshot.png"/>
